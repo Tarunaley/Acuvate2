@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sunitha.chakravaram\\OneDrive - Acuvate Software Private Limited\\Desktop\\docker\\Acuvate2\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\prashanth.beera\\OneDrive - Acuvate Software Private Limited\\Desktop\\leetcode\\webapi\\Acuvate2\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sunitha.chakravaram\\OneDrive - Acuvate Software Private Limited\\Desktop\\docker\\Acuvate2\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\prashanth.beera\\OneDrive - Acuvate Software Private Limited\\Desktop\\leetcode\\webapi\\Acuvate2\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunitha.chakravaram\\OneDrive - Acuvate Software Private Limited\\Desktop\\docker\\Acuvate2\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\prashanth.beera\\OneDrive - Acuvate Software Private Limited\\Desktop\\leetcode\\webapi\\Acuvate2\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\sunitha.chakravaram\\OneDrive - Acuvate Software Private Limited\\Desktop\\docker\\Acuvate2\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\sunitha.chakravaram\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunitha.chakravaram\\OneDrive - Acuvate Software Private Limited\\Desktop\\docker\\Acuvate2\\WebApi\\obj\\",
+        "projectPath": "C:\\Users\\prashanth.beera\\OneDrive - Acuvate Software Private Limited\\Desktop\\leetcode\\webapi\\Acuvate2\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\prashanth.beera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prashanth.beera\\OneDrive - Acuvate Software Private Limited\\Desktop\\leetcode\\webapi\\Acuvate2\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sunitha.chakravaram\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\prashanth.beera\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
