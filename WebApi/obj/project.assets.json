@@ -83,19 +83,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sunitha.chakravaram\\.nuget\\packages\\": {}
+    "C:\\Users\\varshini.anumalla\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sunitha.chakravaram\\OneDrive - Acuvate Software Private Limited\\Desktop\\docker\\Acuvate2\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\varshini.anumalla\\OneDrive - Acuvate Software Private Limited\\Desktop\\git_devops_demo\\Acuvate2\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\sunitha.chakravaram\\OneDrive - Acuvate Software Private Limited\\Desktop\\docker\\Acuvate2\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\sunitha.chakravaram\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sunitha.chakravaram\\OneDrive - Acuvate Software Private Limited\\Desktop\\docker\\Acuvate2\\WebApi\\obj\\",
+      "projectPath": "C:\\Users\\varshini.anumalla\\OneDrive - Acuvate Software Private Limited\\Desktop\\git_devops_demo\\Acuvate2\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\varshini.anumalla\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\varshini.anumalla\\OneDrive - Acuvate Software Private Limited\\Desktop\\git_devops_demo\\Acuvate2\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sunitha.chakravaram\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\varshini.anumalla\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
