@@ -27,6 +27,7 @@ namespace WebApi.Controllers
         public IActionResult Error()
         {
             return View("Error!");
+            Console.WriteLine("Error");
         }
     }
 }
