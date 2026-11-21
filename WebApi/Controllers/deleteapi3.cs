@@ -20,6 +20,7 @@ namespace WebApi.Controllers
 
         public IActionResult Index()
         {
+            Console.WriteLine("Raised an error");
             return View();
         }
 
