@@ -26,7 +26,7 @@ namespace WebApi.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            Console.WriteLine("Raised an error!");
+            Console.WriteLine("Main branch");
             return View("Error!");
         }
     }
