@@ -20,13 +20,13 @@ namespace WebApi.Controllers
 
         public IActionResult Index()
         {
-            Console.WriteLine("Raised an error");
             return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
+            Console.WriteLine("Raised an error!");
             return View("Error!");
         }
     }
